@@ -1,6 +1,6 @@
 # JavaScript Básico & Intermediário
-## Gama Academy 
-> Nível básico 
+## Gama Academy <br> 
+> **Nível básico** 
 
  * Declaração de Váriaveis
  * Operadores matemáticos e incrementação e decrementação
@@ -10,9 +10,20 @@
  * Declaração de Classes e constructors 
  * Exercícios de Fixação
 
-> Nível Intermediário
+> **DOM** 
+ * (Document Object Model )
+    * Árvore DOM (Parents / Childers)
+    * getElementsByTagName()
+    * getElementById()
+    * getElementsByName() 
+    * getElementsByClassName()
+    * querySelector()
+    * querySelectorAll()
+ * Eventos DOM
 
- * Tamplete String
+> **Nível Intermediário**
+
+* Tamplete String
  * Arrow Function
  * Operadores Ternários
  * Arrays, Spread e métodos
