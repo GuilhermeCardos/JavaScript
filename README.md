@@ -17,3 +17,4 @@
  * Operadores Ternários
  * Arrays, Spread e métodos
  * Objetos
+ * SPA, PWA e Web Components
