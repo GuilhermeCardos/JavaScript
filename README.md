@@ -1,5 +1,5 @@
 # JavaScript Básico & Intermediário
-## Gama Academy <br> 
+## Gama Academy And Curso em Vídeo <br> 
 > **Nível básico** 
 
  * Declaração de Váriaveis
