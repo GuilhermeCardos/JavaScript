@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(73, 139, 224);
+    color: white;
+    font: normal 1.2rem arial;
+}
+div#area{
+    background-color:green;
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+    font: normal Arial bold;
+    font-size: 2rem;
+    margin-top:15px;
+    border-radius: 50px;
+    
+}
+div#result{
+    
+    height: 24px;
+    width: 35px;
+    margin-left: 5px;
+}
+input{
+    width: 50px;
+    height: 20px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+button{
+    width: 250px;
+    height: 25px;
+}
+section{
+    background-color: orange;
+    height: 160px;
+    width: 280px;
+    padding-left: 35px;
+    margin-top: 15px;
+    padding-top: 1px;
+    padding-bottom: 10px;
+}
+#soma{
+    display: flex;
+    padding-bottom: 10px;
+}
